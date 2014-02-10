@@ -1,4 +1,0 @@
-lapaz
-=====
-
-stock control sheet
